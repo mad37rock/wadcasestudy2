@@ -36,24 +36,7 @@ A modern web-based Faculty Feedback System that allows students to **log in, rat
 #### 🔐 Login Page
 ![Login](krc.jpeg)
 
-#### 📊 Feedback Dashboard
-![Feedback Form Preview](nigga%20.jpg) *(consider renaming the file before uploading to GitHub for professionalism)*
 
----
-
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/faculty-feedback-summarizer.git
-   cd faculty-feedback-summarizer
-   ```
-
-2. Open `index.html` in your browser to test the login and feedback system.
-
-3. Optionally open `dashboard.html` for the dark-themed version.
-
----
 
 ## 🧠 Future Scope
 
